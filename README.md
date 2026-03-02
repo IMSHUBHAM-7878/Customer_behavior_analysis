@@ -11,19 +11,19 @@ The objective is to transform raw data into meaningful insights that support dat
 
 The dataset contains customer transaction and behavioral information such as:
 
-Customer ID
+1.Customer ID
 
-Purchase history
+2.Purchase history
 
-Product details
+3.Product details
 
-Transaction dates
+4.Transaction dates
 
-Sales amount
+5.Sales amount
 
-Payment method
+6.Payment method
 
-Region / Location
+7.Region / Location
 
 The dataset was loaded and processed using Python before being stored and queried in SQL databases.
 
@@ -41,90 +41,90 @@ Gamma (Report & Presentation Creation)
 
 🔎 Project Steps
 
-Data Loading
+1.Data Loading
 
-Imported dataset into Python using Pandas.
+2.Imported dataset into Python using Pandas.
 
-Performed initial inspection and structure validation.
+3.Performed initial inspection and structure validation.
 
-Data Cleaning
+4.Data Cleaning
 
-Handled missing values.
+5.Handled missing values.
 
-Removed duplicates.
+6.Removed duplicates.
 
-Standardized formats (dates, categorical values).
+7.Standardized formats (dates, categorical values).
 
-Corrected data inconsistencies.
+8.Corrected data inconsistencies.
 
-Exploratory Data Analysis (EDA)
+9.Exploratory Data Analysis (EDA)
 
-Analyzed purchasing patterns.
+10.Analyzed purchasing patterns.
 
-Identified top-performing products.
+11.Identified top-performing products.
 
-Studied customer frequency and spending behavior.
+12.Studied customer frequency and spending behavior.
 
-Visualized trends using charts and graphs.
+13.Visualized trends using charts and graphs.
 
-SQL Analysis
+14.SQL Analysis
 
-Imported cleaned data into SQL database.
+15.Imported cleaned data into SQL database.
 
-Executed queries for:
+16.Executed queries for:
 
-Revenue analysis
+17.Revenue analysis
 
-Customer segmentation
+18.Customer segmentation
 
-Monthly sales trends
+19.Monthly sales trends
 
-Top customers and products
+20.Top customers and products
 
-Dashboard Creation (Power BI)
+21.Dashboard Creation (Power BI)
 
-Built an interactive dashboard.
+22.Built an interactive dashboard.
 
-Included KPIs such as:
+23.Included KPIs such as:
 
-Total Revenue
+24.Total Revenue
 
-Total Orders
+25.Total Orders
 
-Average Order Value
+26.Average Order Value
 
-Customer Segments
+27.Customer Segments
 
-Sales Trends
+28.Sales Trends
 
-Report & Presentation
+29.Report & Presentation
 
-Created a professional report summarizing findings.
+30.Created a professional report summarizing findings.
 
-Designed a PPT presentation using Gamma for business stakeholders.
+31.Designed a PPT presentation using Gamma for business stakeholders.
 
 📊 Dashboard Highlights
 
-Revenue overview and growth trends
+1.Revenue overview and growth trends
 
-Top-selling products
+2.Top-selling products
 
-Customer segmentation analysis
+3.Customer segmentation analysis
 
-Monthly and regional performance comparison
+4.Monthly and regional performance comparison
 
-Key performance indicators (KPIs)
+5.Key performance indicators (KPIs)
 
 The dashboard allows interactive filtering for deeper business insights.
 
 📈 Results & Key Insights
 
-Identified high-value customer segments.
+1.Identified high-value customer segments.
 
-Found peak sales months and seasonal trends.
+2.Found peak sales months and seasonal trends.
 
-Determined top revenue-generating products.
+3.Determined top revenue-generating products.
 
-Analyzed repeat purchase behavior.
+4.Analyzed repeat purchase behavior.
 
-Provided data-backed recommendations for improving sales performance.
+5.Provided data-backed recommendations for improving sales performance.
