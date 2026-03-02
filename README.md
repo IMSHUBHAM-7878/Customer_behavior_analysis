@@ -29,9 +29,9 @@ The dataset was loaded and processed using Python before being stored and querie
 
 🛠 Tools & Technologies Used
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+Python (Pandas)
 
-SQL (PostgreSQL / MySQL / SQL Server)
+SQL (MySQL)
 
 Power BI (Dashboard & Data Visualization)
 
