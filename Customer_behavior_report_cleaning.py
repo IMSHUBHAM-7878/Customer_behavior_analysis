@@ -26,10 +26,10 @@ df = df.drop('promo_code_used',axis = 1)
 # print(df.columns)
 from sqlalchemy import create_engine
 username = "root"
-password = "admin123"
+password = "*********" # your password
 host = "localhost"
-port = "3306"
-database = "customer1"
+port = "****"   # you localhost port
+database = "customer1***"   #your database
 engine = create_engine(f"mysql+pymysql://{username}:{password}@{host}:{port}/{database}")
 table_name = "mytable"
 df.to_sql(table_name,engine,if_exists = "replace",index = False)
@@ -37,5 +37,6 @@ pd.read_sql("SELECT * FROM mytable LIMIT 5;",engine)
 print(df.columns)
 print(df.shape)
 # print(df.discount_applied.head(10))
+
 
 
